@@ -12,11 +12,11 @@ public class Exercises {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-//		fibonacci(sc);
+		fibonacci(sc);
 //		isPrime(sc);
 //		primesInGivenRange(sc);
 //		centerPoint(sc);
-		longerLine(sc);
+//		longerLine(sc);
 		
 
 	}

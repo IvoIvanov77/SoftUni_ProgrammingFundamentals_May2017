@@ -10,8 +10,8 @@ public class Lab {
 		Scanner sc = new Scanner(System.in);
 //		printingTriangle(sc);
 //		pow(sc);
-//		getMax(sc);
-		multiplyEvensByOdds(sc);
+		getMax(sc);
+//		multiplyEvensByOdds(sc);
 
 	}
 	

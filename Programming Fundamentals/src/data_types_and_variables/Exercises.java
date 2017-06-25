@@ -18,6 +18,7 @@ public class Exercises {
 //		printBoolean(comparingFloats(sc));
 //		printChars(sc);
 		theaPhotographer(sc);
+		sc.close();
 	}
 	
 	public static void practiceIntegerNumbers(){
@@ -42,7 +43,7 @@ public class Exercises {
 	public static void convertHexaToDecimal(Scanner sc){
 		  String st = sc.nextLine();
 		  String hexa = st.substring(2);
-		  int decimal = Integer.valueOf(hexa, 16);
+		  int decimal = Integer.valueOf(hexa, 16);		  
 		  System.out.println(decimal);
 	}
 	
