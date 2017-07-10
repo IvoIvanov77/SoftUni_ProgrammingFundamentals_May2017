@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\bin\Debug\_2.Change_List.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\obj\Debug\2. Change List.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\obj\Debug\_2.Change_List.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\2. Change List\obj\Debug\_2.Change_List.pdb

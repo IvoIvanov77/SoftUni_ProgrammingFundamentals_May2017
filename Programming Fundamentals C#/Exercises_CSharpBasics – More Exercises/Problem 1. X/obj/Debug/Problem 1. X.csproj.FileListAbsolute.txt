@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\bin\Debug\Problem_1.X.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\bin\Debug\Problem_1.X.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\bin\Debug\Problem_1.X.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\obj\Debug\Problem 1. X.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\obj\Debug\Problem_1.X.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 1. X\obj\Debug\Problem_1.X.pdb

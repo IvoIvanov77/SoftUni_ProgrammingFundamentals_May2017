@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\2. Email Me\bin\Debug\_2.Email_Me.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\2. Email Me\bin\Debug\_2.Email_Me.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\2. Email Me\bin\Debug\_2.Email_Me.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\2. Email Me\obj\Debug\_2.Email_Me.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\2. Email Me\obj\Debug\_2.Email_Me.pdb

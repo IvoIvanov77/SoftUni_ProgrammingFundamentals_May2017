@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\bin\Debug\Rage Quit.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\bin\Debug\Rage Quit.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\bin\Debug\Rage Quit.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\obj\Debug\Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\obj\Debug\Rage Quit.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\Rage Quit\obj\Debug\Rage Quit.pdb

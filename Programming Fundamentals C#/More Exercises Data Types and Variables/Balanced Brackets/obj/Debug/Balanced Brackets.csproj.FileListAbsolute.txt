@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Balanced Brackets\bin\Debug\Balanced Brackets.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Balanced Brackets\bin\Debug\Balanced Brackets.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Balanced Brackets\bin\Debug\Balanced Brackets.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Balanced Brackets\obj\Debug\Balanced Brackets.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Balanced Brackets\obj\Debug\Balanced Brackets.pdb

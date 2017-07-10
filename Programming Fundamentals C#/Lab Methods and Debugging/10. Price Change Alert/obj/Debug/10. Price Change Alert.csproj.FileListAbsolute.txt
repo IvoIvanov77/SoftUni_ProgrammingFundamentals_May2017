@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\obj\Debug\10. Price Change Alert.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.pdb

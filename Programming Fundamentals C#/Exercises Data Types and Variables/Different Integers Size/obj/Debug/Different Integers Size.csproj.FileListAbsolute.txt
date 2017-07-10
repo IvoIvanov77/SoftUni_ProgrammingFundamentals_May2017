@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Different Integers Size\obj\Debug\Different Integers Size.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Different Integers Size\obj\Debug\Different Integers Size.pdb

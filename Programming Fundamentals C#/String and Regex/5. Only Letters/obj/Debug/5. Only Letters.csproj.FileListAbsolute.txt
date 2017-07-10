@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\bin\Debug\_5.Only_Letters.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\bin\Debug\_5.Only_Letters.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\bin\Debug\_5.Only_Letters.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\obj\Debug\5. Only Letters.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\obj\Debug\_5.Only_Letters.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Only Letters\obj\Debug\_5.Only_Letters.pdb

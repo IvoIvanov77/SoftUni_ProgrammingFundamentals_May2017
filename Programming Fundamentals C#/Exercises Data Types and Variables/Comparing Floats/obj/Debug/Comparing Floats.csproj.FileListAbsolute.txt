@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\obj\Debug\Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\Comparing Floats\obj\Debug\Comparing Floats.pdb

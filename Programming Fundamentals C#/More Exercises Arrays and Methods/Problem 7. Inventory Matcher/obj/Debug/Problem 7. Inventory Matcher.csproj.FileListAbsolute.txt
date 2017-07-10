@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\bin\Debug\Problem_7.Inventory_Matcher.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\obj\Debug\Problem 7. Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\obj\Debug\Problem_7.Inventory_Matcher.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 7. Inventory Matcher\obj\Debug\Problem_7.Inventory_Matcher.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\bin\Debug\Sequence of Commands.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\bin\Debug\Sequence of Commands.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\bin\Debug\Sequence of Commands.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\obj\Debug\Sequence of Commands.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\obj\Debug\Sequence of Commands.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Sequence of Commands\obj\Debug\Sequence of Commands.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\Foreign Languages.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\Foreign Languages.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\Foreign Languages.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\Foreign Languages.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\Foreign Languages.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\Foreign Languages.pdb

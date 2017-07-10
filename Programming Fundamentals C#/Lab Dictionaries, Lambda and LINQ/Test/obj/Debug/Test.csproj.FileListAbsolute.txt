@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Test\bin\Debug\Test.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Test\bin\Debug\Test.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Test\bin\Debug\Test.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Test\obj\Debug\Test.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Test\obj\Debug\Test.pdb

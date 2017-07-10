@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.pdb

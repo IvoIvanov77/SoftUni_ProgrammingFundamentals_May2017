@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\obj\Debug\2. Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.pdb

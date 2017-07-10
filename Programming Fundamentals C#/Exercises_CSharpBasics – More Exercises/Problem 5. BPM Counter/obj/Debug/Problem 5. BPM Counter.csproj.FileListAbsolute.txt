@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\obj\Debug\Problem 5. BPM Counter.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.pdb

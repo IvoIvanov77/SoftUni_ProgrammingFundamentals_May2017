@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.pdb

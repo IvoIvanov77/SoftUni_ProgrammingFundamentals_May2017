@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

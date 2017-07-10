@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\bin\Debug\FootballStandings.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\bin\Debug\FootballStandings.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\bin\Debug\FootballStandings.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\obj\Debug\FootballStandings.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\obj\Debug\FootballStandings.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exam Preparation\FootballStandings\obj\Debug\FootballStandings.csprojResolveAssemblyReference.cache

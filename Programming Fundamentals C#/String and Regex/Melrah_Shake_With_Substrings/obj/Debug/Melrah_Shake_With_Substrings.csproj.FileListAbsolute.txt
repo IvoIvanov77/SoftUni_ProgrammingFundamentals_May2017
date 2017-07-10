@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\bin\Debug\Melrah_Shake_With_Substrings.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\bin\Debug\Melrah_Shake_With_Substrings.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\bin\Debug\Melrah_Shake_With_Substrings.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\obj\Debug\Melrah_Shake_With_Substrings.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\obj\Debug\Melrah_Shake_With_Substrings.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\Melrah_Shake_With_Substrings\obj\Debug\Melrah_Shake_With_Substrings.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\bin\Debug\_7.Population_Counter.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\bin\Debug\_7.Population_Counter.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\bin\Debug\_7.Population_Counter.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\obj\Debug\7. Population Counter.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\obj\Debug\_7.Population_Counter.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\7. Population Counter\obj\Debug\_7.Population_Counter.pdb

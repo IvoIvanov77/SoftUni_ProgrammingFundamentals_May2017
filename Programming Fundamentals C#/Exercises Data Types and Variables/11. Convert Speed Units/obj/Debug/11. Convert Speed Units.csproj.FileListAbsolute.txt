@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb

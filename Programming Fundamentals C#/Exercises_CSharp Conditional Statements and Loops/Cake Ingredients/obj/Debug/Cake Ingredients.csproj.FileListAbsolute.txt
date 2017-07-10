@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Cake Ingredients\bin\Debug\Cake Ingredients.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Cake Ingredients\bin\Debug\Cake Ingredients.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Cake Ingredients\bin\Debug\Cake Ingredients.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Cake Ingredients\obj\Debug\Cake Ingredients.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Cake Ingredients\obj\Debug\Cake Ingredients.pdb

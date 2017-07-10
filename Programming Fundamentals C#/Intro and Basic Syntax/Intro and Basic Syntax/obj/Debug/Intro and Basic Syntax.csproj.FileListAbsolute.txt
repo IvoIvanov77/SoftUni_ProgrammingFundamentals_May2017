@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.pdb

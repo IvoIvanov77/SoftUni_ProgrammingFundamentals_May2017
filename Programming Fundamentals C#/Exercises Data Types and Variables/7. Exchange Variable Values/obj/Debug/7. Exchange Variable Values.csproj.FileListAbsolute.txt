@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\7. Exchange Variable Values\bin\Debug\_7.Exchange_Variable_Values.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\7. Exchange Variable Values\obj\Debug\_7.Exchange_Variable_Values.pdb

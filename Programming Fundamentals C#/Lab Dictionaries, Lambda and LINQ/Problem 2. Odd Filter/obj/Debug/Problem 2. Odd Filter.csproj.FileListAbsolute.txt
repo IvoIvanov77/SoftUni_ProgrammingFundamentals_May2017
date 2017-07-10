@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 2. Odd Filter\bin\Debug\Problem_2.Odd_Filter.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 2. Odd Filter\obj\Debug\Problem_2.Odd_Filter.pdb

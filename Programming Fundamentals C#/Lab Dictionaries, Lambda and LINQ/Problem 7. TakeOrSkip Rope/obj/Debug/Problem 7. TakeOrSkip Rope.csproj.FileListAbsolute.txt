@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\bin\Debug\Problem_7.TakeOrSkip_Rope.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\bin\Debug\Problem_7.TakeOrSkip_Rope.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\bin\Debug\Problem_7.TakeOrSkip_Rope.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\obj\Debug\Problem 7. TakeOrSkip Rope.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\obj\Debug\Problem_7.TakeOrSkip_Rope.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 7. TakeOrSkip Rope\obj\Debug\Problem_7.TakeOrSkip_Rope.pdb

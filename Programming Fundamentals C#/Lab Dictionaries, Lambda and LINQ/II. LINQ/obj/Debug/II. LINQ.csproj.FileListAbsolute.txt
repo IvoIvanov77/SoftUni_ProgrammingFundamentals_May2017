@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\II. LINQ\bin\Debug\II.LINQ.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\II. LINQ\bin\Debug\II.LINQ.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\II. LINQ\bin\Debug\II.LINQ.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\II. LINQ\obj\Debug\II.LINQ.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\II. LINQ\obj\Debug\II.LINQ.pdb

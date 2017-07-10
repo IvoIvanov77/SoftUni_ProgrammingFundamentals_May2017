@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\bin\Debug\Vapor Store.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\bin\Debug\Vapor Store.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\bin\Debug\Vapor Store.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\obj\Debug\Vapor Store.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Vapor Store\obj\Debug\Vapor Store.pdb

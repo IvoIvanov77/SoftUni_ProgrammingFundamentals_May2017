@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Megapixels\bin\Debug\Megapixels.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Megapixels\bin\Debug\Megapixels.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Megapixels\bin\Debug\Megapixels.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Megapixels\obj\Debug\Megapixels.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Megapixels\obj\Debug\Megapixels.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem 1. Array Statistics.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\bin\Debug\Dragon Army.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\bin\Debug\Dragon Army.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\bin\Debug\Dragon Army.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\obj\Debug\Dragon Army.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\obj\Debug\Dragon Army.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Dragon Army\obj\Debug\Dragon Army.pdb

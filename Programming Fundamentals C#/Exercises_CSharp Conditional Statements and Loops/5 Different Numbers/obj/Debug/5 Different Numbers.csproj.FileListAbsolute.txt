@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\bin\Debug\5 Different Numbers.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\bin\Debug\5 Different Numbers.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\bin\Debug\5 Different Numbers.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\obj\Debug\5 Different Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\obj\Debug\5 Different Numbers.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\5 Different Numbers\obj\Debug\5 Different Numbers.pdb

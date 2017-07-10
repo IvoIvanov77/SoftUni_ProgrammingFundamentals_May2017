@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 3. Miles to Kilometers\bin\Debug\Problem_3.Miles_to_Kilometers.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 3. Miles to Kilometers\obj\Debug\Problem_3.Miles_to_Kilometers.pdb

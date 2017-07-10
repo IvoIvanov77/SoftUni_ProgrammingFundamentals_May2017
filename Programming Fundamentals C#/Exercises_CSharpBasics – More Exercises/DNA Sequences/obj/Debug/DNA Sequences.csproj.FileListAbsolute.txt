@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\bin\Debug\DNA Sequences.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\bin\Debug\DNA Sequences.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\bin\Debug\DNA Sequences.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\obj\Debug\DNA Sequences.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\obj\Debug\DNA Sequences.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\DNA Sequences\obj\Debug\DNA Sequences.pdb

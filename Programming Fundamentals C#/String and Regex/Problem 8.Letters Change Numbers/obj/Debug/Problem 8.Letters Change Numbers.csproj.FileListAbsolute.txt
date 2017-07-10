@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\bin\Debug\Problem 8.Letters Change Numbers.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\bin\Debug\Problem 8.Letters Change Numbers.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\bin\Debug\Problem 8.Letters Change Numbers.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\obj\Debug\Problem 8.Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\obj\Debug\Problem 8.Letters Change Numbers.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 8.Letters Change Numbers\obj\Debug\Problem 8.Letters Change Numbers.pdb

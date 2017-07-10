@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.pdb

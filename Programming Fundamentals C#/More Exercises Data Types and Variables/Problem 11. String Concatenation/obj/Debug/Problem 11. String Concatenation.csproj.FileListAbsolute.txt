@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\obj\Debug\Problem 11. String Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.pdb

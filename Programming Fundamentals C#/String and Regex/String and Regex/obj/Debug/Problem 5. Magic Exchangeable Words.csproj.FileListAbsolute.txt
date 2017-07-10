@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\bin\Debug\String and Regex.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\bin\Debug\String and Regex.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\bin\Debug\String and Regex.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\obj\Debug\Problem 5. Magic Exchangeable Words.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\obj\Debug\String and Regex.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\String and Regex\obj\Debug\String and Regex.pdb

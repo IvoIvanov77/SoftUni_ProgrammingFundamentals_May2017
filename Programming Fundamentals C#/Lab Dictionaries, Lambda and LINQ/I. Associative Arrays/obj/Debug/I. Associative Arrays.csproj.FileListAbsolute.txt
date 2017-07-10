@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\bin\Debug\I.Associative_Arrays.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\bin\Debug\I.Associative_Arrays.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\bin\Debug\I.Associative_Arrays.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\obj\Debug\I. Associative Arrays.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\obj\Debug\I.Associative_Arrays.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\I. Associative Arrays\obj\Debug\I.Associative_Arrays.pdb

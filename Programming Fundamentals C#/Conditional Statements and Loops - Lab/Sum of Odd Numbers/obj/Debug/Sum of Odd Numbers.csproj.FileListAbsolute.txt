@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Lab\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.pdb

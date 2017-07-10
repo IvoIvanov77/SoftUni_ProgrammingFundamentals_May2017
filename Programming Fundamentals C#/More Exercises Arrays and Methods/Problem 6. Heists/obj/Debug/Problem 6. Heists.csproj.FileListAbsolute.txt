@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\bin\Debug\Problem_6.Heists.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem 6. Heists.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem_6.Heists.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Arrays and Methods\Problem 6. Heists\obj\Debug\Problem_6.Heists.pdb

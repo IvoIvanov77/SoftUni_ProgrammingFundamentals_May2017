@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Methods and Debugging", "Lab Methods and Debugging\Lab Methods and Debugging.csproj", "{8FE1FEB3-A807-4569-93C8-913566A8E7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Debug the Code Holidays Between Two Dates", "9. Debug the Code Holidays Between Two Dates\9. Debug the Code Holidays Between Two Dates.csproj", "{AB619E7C-1197-42E8-BB56-AABC31C68AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holidays Between Two Dates Wrong", "Holidays Between Two Dates Wrong\Holidays Between Two Dates Wrong.csproj", "{C6421AF5-413B-4D5C-A9E1-367AF73C11DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Price Change Alert", "10. Price Change Alert\10. Price Change Alert.csproj", "{34DF7DEB-85D9-45DC-BB5C-03382E516C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE1FEB3-A807-4569-93C8-913566A8E7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE1FEB3-A807-4569-93C8-913566A8E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE1FEB3-A807-4569-93C8-913566A8E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE1FEB3-A807-4569-93C8-913566A8E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB619E7C-1197-42E8-BB56-AABC31C68AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB619E7C-1197-42E8-BB56-AABC31C68AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB619E7C-1197-42E8-BB56-AABC31C68AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB619E7C-1197-42E8-BB56-AABC31C68AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6421AF5-413B-4D5C-A9E1-367AF73C11DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6421AF5-413B-4D5C-A9E1-367AF73C11DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6421AF5-413B-4D5C-A9E1-367AF73C11DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6421AF5-413B-4D5C-A9E1-367AF73C11DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DF7DEB-85D9-45DC-BB5C-03382E516C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DF7DEB-85D9-45DC-BB5C-03382E516C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DF7DEB-85D9-45DC-BB5C-03382E516C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DF7DEB-85D9-45DC-BB5C-03382E516C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

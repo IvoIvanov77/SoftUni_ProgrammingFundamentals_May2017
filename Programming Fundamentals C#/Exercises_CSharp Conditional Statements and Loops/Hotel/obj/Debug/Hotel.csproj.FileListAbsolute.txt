@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\bin\Debug\Hotel.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\obj\Debug\Hotel.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Hotel\obj\Debug\Hotel.pdb

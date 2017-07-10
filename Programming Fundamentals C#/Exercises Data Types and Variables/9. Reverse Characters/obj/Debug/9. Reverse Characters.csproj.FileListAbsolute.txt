@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\9. Reverse Characters\obj\Debug\_9.Reverse_Characters.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\9. Reverse Characters\obj\Debug\_9.Reverse_Characters.pdb

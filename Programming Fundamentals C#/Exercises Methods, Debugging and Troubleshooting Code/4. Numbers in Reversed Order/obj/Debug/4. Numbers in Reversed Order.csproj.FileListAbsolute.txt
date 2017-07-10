@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\4. Numbers in Reversed Order\bin\Debug\_4.Numbers_in_Reversed_Order.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\4. Numbers in Reversed Order\bin\Debug\_4.Numbers_in_Reversed_Order.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\4. Numbers in Reversed Order\bin\Debug\_4.Numbers_in_Reversed_Order.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\4. Numbers in Reversed Order\obj\Debug\_4.Numbers_in_Reversed_Order.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\4. Numbers in Reversed Order\obj\Debug\_4.Numbers_in_Reversed_Order.pdb

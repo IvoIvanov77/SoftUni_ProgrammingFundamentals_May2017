@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\5. Array Manipulator.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.pdb

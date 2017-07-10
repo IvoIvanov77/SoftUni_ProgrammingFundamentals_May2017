@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\bin\Debug\NewTest.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\bin\Debug\NewTest.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\bin\Debug\NewTest.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\obj\Debug\NewTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\obj\Debug\NewTest.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\NewTest\obj\Debug\NewTest.pdb

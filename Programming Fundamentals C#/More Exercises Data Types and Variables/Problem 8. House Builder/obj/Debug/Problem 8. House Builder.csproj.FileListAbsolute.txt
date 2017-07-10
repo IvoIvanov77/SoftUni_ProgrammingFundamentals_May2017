@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\bin\Debug\Problem_8.House_Builder.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\obj\Debug\Problem 8. House Builder.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\obj\Debug\Problem_8.House_Builder.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 8. House Builder\obj\Debug\Problem_8.House_Builder.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\Holidays Between Two Dates Wrong\bin\Debug\Holidays Between Two Dates Wrong.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\Holidays Between Two Dates Wrong\bin\Debug\Holidays Between Two Dates Wrong.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\Holidays Between Two Dates Wrong\bin\Debug\Holidays Between Two Dates Wrong.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\Holidays Between Two Dates Wrong\obj\Debug\Holidays Between Two Dates Wrong.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\Holidays Between Two Dates Wrong\obj\Debug\Holidays Between Two Dates Wrong.pdb

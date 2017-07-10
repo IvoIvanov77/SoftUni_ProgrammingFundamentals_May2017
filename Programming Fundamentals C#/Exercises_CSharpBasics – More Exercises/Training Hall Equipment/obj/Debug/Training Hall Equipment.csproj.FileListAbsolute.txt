@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises_CSharpBasics – More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.pdb

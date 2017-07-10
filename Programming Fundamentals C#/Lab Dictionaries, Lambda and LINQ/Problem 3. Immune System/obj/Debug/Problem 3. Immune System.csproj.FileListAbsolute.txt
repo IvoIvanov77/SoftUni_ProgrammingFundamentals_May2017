@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\bin\Debug\Problem_3.Immune_System.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\obj\Debug\Problem 3. Immune System.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\obj\Debug\Problem_3.Immune_System.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Lab Dictionaries, Lambda and LINQ\Problem 3. Immune System\obj\Debug\Problem_3.Immune_System.pdb

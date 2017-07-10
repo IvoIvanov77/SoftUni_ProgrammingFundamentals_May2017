@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\obj\Debug\Problem 7. Sentence the Thief.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 7. Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\bin\Debug\Character Stats.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\bin\Debug\Character Stats.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\bin\Debug\Character Stats.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\obj\Debug\Character Stats.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\obj\Debug\Character Stats.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Character Stats\obj\Debug\Character Stats.pdb

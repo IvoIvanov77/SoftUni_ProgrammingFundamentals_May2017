@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\bin\Debug\_5.Key_Replacer.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\obj\Debug\5. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\obj\Debug\_5.Key_Replacer.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\5. Key Replacer\obj\Debug\_5.Key_Replacer.pdb

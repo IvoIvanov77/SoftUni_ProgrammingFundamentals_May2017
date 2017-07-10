@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\bin\Debug\_9.Teamwork_projects.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\obj\Debug\9. Teamwork projects.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\obj\Debug\_9.Teamwork_projects.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\9. Teamwork projects\obj\Debug\_9.Teamwork_projects.pdb

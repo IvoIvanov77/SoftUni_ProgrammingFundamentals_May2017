@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Exercises Data Types and Variables\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.pdb

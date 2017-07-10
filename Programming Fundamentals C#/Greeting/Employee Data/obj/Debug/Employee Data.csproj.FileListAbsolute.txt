@@ -1,0 +1,5 @@
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.exe.config
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.exe
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\Employee Data\bin\Debug\Employee Data.pdb
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\Employee Data\obj\Debug\Employee Data.exe
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\Employee Data\obj\Debug\Employee Data.pdb

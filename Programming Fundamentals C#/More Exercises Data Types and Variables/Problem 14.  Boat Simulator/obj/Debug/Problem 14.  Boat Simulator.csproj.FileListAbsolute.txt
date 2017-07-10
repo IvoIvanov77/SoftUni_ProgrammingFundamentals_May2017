@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\bin\Debug\Problem_14.Boat_Simulator.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\obj\Debug\Problem 14.  Boat Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\obj\Debug\Problem_14.Boat_Simulator.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 14.  Boat Simulator\obj\Debug\Problem_14.Boat_Simulator.pdb

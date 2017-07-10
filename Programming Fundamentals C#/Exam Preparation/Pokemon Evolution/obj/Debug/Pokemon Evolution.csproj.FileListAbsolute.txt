@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\bin\Debug\Pokemon Evolution.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\bin\Debug\Pokemon Evolution.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\bin\Debug\Pokemon Evolution.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\obj\Debug\Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\obj\Debug\Pokemon Evolution.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Evolution\obj\Debug\Pokemon Evolution.pdb

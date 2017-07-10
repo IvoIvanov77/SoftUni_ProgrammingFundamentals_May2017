@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

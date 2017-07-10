@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\bin\Debug\Lab Methods and Debugging.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\bin\Debug\Lab Methods and Debugging.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\bin\Debug\Lab Methods and Debugging.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\obj\Debug\Lab Methods and Debugging.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\obj\Debug\Lab Methods and Debugging.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Methods and Debugging\Lab Methods and Debugging\obj\Debug\Lab Methods and Debugging.pdb

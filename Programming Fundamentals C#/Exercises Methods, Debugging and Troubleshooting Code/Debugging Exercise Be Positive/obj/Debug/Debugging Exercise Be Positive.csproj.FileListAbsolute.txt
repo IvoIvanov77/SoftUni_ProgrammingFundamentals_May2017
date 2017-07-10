@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Debugging Exercise Be Positive\bin\Debug\Debugging Exercise Be Positive.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Debugging Exercise Be Positive\bin\Debug\Debugging Exercise Be Positive.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Debugging Exercise Be Positive\bin\Debug\Debugging Exercise Be Positive.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Debugging Exercise Be Positive\obj\Debug\Debugging Exercise Be Positive.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Methods, Debugging and Troubleshooting Code\Debugging Exercise Be Positive\obj\Debug\Debugging Exercise Be Positive.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\obj\Debug\SoftUni Coffee Orders.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\obj\Debug\SoftUni Coffee Orders.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\SoftUni Coffee Orders\obj\Debug\SoftUni Coffee Orders.pdb

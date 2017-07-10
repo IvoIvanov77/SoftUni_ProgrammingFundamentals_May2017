@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\bin\Debug\_5.Book_Library.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\obj\Debug\5. Book Library.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\obj\Debug\_5.Book_Library.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\5. Book Library\obj\Debug\_5.Book_Library.pdb

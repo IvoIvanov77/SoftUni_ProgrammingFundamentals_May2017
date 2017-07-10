@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.pdb

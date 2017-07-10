@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\bin\Debug\Read and write arrays.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\bin\Debug\Read and write arrays.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\bin\Debug\Read and write arrays.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\obj\Debug\Read and write arrays.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\obj\Debug\Read and write arrays.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Lab Arrays\Read and write arrays\obj\Debug\Read and write arrays.pdb

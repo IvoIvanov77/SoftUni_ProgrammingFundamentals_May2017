@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\bin\Debug\Lab.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\bin\Debug\Lab.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\bin\Debug\Lab.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\obj\Debug\Lab.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Files, Directories and Exceptions\Lab\obj\Debug\Lab.pdb

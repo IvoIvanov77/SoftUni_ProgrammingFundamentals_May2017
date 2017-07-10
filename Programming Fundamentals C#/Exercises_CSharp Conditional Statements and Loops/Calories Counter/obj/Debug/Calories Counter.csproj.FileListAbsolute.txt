@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\bin\Debug\Calories Counter.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\bin\Debug\Calories Counter.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\bin\Debug\Calories Counter.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\obj\Debug\Calories Counter.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\obj\Debug\Calories Counter.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Calories Counter\obj\Debug\Calories Counter.pdb

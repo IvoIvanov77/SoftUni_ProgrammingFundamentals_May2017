@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\bin\Debug\_4.Weather.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\bin\Debug\_4.Weather.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\bin\Debug\_4.Weather.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\obj\Debug\4. Weather.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\obj\Debug\_4.Weather.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\String and Regex\4. Weather\obj\Debug\_4.Weather.pdb

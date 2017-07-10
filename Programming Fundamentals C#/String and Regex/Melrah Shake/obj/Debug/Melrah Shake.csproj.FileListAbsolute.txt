@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\bin\Debug\Melrah Shake.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\bin\Debug\Melrah Shake.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\bin\Debug\Melrah Shake.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\obj\Debug\Melrah Shake.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\obj\Debug\Melrah Shake.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Melrah Shake\obj\Debug\Melrah Shake.pdb

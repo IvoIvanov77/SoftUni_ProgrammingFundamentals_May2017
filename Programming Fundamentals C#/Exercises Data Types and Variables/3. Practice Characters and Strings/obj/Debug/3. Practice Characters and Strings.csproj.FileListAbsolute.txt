@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\bin\Debug\_3.Practice_Characters_and_Strings.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\bin\Debug\_3.Practice_Characters_and_Strings.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\bin\Debug\_3.Practice_Characters_and_Strings.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\obj\Debug\3. Practice Characters and Strings.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\obj\Debug\_3.Practice_Characters_and_Strings.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\3. Practice Characters and Strings\obj\Debug\_3.Practice_Characters_and_Strings.pdb

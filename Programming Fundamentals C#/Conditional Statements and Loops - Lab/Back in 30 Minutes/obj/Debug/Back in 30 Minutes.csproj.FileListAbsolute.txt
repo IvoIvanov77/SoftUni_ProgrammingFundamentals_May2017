@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Conditional Statements and Loops - Lab\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Conditional Statements and Loops - Lab\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.pdb

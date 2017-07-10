@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\bin\Debug\Problem_7.Multiply_Big_Number.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\bin\Debug\Problem_7.Multiply_Big_Number.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\bin\Debug\Problem_7.Multiply_Big_Number.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\obj\Debug\Problem 7. Multiply Big Number.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\obj\Debug\Problem_7.Multiply_Big_Number.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\String and Regex\Problem 7. Multiply Big Number\obj\Debug\Problem_7.Multiply_Big_Number.pdb

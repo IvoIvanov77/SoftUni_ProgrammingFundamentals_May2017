@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 4. Beverage Labels\bin\Debug\Problem_4.Beverage_Labels.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 4. Beverage Labels\obj\Debug\Problem_4.Beverage_Labels.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Intro and Basic Syntax\Problem 4. Beverage Labels\obj\Debug\Problem_4.Beverage_Labels.pdb

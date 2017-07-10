@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Array_Testing\bin\Debug\Array_Testing.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Array_Testing\bin\Debug\Array_Testing.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Array_Testing\bin\Debug\Array_Testing.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Array_Testing\obj\Debug\Array_Testing.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\More Exercises Arrays and Methods\Array_Testing\obj\Debug\Array_Testing.pdb

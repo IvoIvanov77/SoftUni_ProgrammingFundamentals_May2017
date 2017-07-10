@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\9. Debug the Code Holidays Between Two Dates\bin\Debug\_9.Debug_the_Code_Holidays_Between_Two_Dates.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\9. Debug the Code Holidays Between Two Dates\bin\Debug\_9.Debug_the_Code_Holidays_Between_Two_Dates.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\9. Debug the Code Holidays Between Two Dates\bin\Debug\_9.Debug_the_Code_Holidays_Between_Two_Dates.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\9. Debug the Code Holidays Between Two Dates\obj\Debug\_9.Debug_the_Code_Holidays_Between_Two_Dates.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Lab Methods and Debugging\9. Debug the Code Holidays Between Two Dates\obj\Debug\_9.Debug_the_Code_Holidays_Between_Two_Dates.pdb

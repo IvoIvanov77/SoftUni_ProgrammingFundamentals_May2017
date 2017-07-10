@@ -1,0 +1,5 @@
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Users\Ivaylo\documents\visual studio 2017\Projects\Greeting\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

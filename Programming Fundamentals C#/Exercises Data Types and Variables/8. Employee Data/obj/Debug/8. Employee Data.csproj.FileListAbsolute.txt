@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\8. Employee Data\bin\Debug\_8.Employee_Data.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\8. Employee Data\bin\Debug\_8.Employee_Data.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\8. Employee Data\bin\Debug\_8.Employee_Data.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\8. Employee Data\obj\Debug\_8.Employee_Data.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Data Types and Variables\8. Employee Data\obj\Debug\_8.Employee_Data.pdb

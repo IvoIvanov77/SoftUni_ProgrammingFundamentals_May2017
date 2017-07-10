@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Count the Integers\bin\Debug\Count the Integers.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Count the Integers\bin\Debug\Count the Integers.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Count the Integers\bin\Debug\Count the Integers.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Count the Integers\obj\Debug\Count the Integers.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exercises_CSharp Conditional Statements and Loops\Count the Integers\obj\Debug\Count the Integers.pdb

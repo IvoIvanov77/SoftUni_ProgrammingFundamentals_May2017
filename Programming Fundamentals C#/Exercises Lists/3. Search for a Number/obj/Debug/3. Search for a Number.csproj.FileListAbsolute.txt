@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\bin\Debug\_3.Search_for_a_Number.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\obj\Debug\3. Search for a Number.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\obj\Debug\_3.Search_for_a_Number.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Exercises Lists\3. Search for a Number\obj\Debug\_3.Search_for_a_Number.pdb

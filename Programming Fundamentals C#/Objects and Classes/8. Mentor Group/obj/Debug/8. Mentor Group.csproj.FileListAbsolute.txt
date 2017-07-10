@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\obj\Debug\8. Mentor Group.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\obj\Debug\_8.Mentor_Group.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Objects and Classes\8. Mentor Group\obj\Debug\_8.Mentor_Group.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\bin\Debug\Problem_13.Decrypting_Messages.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\bin\Debug\Problem_13.Decrypting_Messages.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\bin\Debug\Problem_13.Decrypting_Messages.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\obj\Debug\Problem 13. Decrypting Messages.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\obj\Debug\Problem_13.Decrypting_Messages.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\More Exercises Data Types and Variables\Problem 13. Decrypting Messages\obj\Debug\Problem_13.Decrypting_Messages.pdb

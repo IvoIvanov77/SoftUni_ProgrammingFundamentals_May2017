@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\bin\Debug\Pokemon Don’t Go.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\bin\Debug\Pokemon Don’t Go.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\bin\Debug\Pokemon Don’t Go.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\obj\Debug\Pokemon Don’t Go.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\obj\Debug\Pokemon Don’t Go.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Exam Preparation\Pokemon Don’t Go\obj\Debug\Pokemon Don’t Go.pdb
