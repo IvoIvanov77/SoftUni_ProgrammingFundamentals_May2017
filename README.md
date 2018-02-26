@@ -38,3 +38,9 @@ https://softuni.bg/trainings/1619/programming-fundamentals-may-2017
 
 15. Practical Exam – 4 Problems for 6 Hours
 
+
+
+# Certificate:
+![programming fundamentals - may 2017 - certificate-1](https://user-images.githubusercontent.com/16088420/36667240-e3713e18-1af5-11e8-9317-b424de19292c.jpg)
+
+
