@@ -41,6 +41,5 @@ https://softuni.bg/trainings/1619/programming-fundamentals-may-2017
 
 
 # Certificate:
-![programming fundamentals - may 2017 - certificate-1](https://user-images.githubusercontent.com/16088420/36667240-e3713e18-1af5-11e8-9317-b424de19292c.jpg)
-
+![programming fundamentals - may 2017 - certificate-1](https://user-images.githubusercontent.com/16088420/36668471-1a71d586-1afa-11e8-843c-ca37697a5ef6.jpg)
 
